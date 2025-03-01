@@ -1,7 +1,7 @@
 # Foundations-of-Machine-Learning-Course-Projects
 Foundations of machine learning (ML) course projects at University of Tehran (Fall 2024) 
 
-## CA1 - Linear & Logistic Regression
+## CA1
 
 ### Part 1 - Linear Regression
 
@@ -32,6 +32,9 @@ Clustering of mall customers based on different features using sklearn’s K-Mea
 ## CA5 - Multi-Layer Perceptron (MLP)
 
 Implementation of an MLP from scratch using torch for predicting house prices based on different features.
+
+## Final Project - Voice Classification and Clustering  
+Implementation of feature extraction techniques (MFCC, log-mel spectrogram, spectral properties) for gender classification and voice authentication. Implementation of classification models (Logistic Regression, Random Forest, KNN, MLP) with feature selection methods (PCA, RFE, Mutual Information). Implementation of clustering models (KMeans, DBSCAN) with parameter tuning using the Elbow Method and Silhouette Score.
 
 ## General Approach Across All Projects
 
